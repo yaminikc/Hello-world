@@ -1,2 +1,3 @@
 # Hello-world
-This is my first repository
+
+This is Yamini and a novice here excited to start something new.
